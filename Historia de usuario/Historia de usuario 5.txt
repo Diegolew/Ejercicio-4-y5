@@ -1,0 +1,15 @@
+Historia de usuario 5
+
+Como usuario interesado en convertir números romanos en números enteros,
+
+Quiero ingresar un número romano del 1 al 20,
+
+Para obtener su valor equivalente en números enteros.
+
+Criterios de Aceptación:
+
+Ingreso de Número Romano: El programa debe permitir al usuario ingresar un número romano del 1 al 20.
+Validación de la Entrada: El programa debe verificar que el número romano ingresado sea válido, es decir, esté en el rango del 1 al 20 y esté representado correctamente según las reglas de los números romanos.
+Conversión a Entero: El programa debe convertir el número romano ingresado en su equivalente valor entero y mostrarlo al usuario.
+Interacción Amigable: El programa debe proporcionar una interfaz de usuario clara e intuitiva, indicando al usuario qué se espera que ingrese y mostrando de manera clara el resultado obtenido.
+Manejo de Números no Válidos: Si el número romano ingresado no está en el rango del 1 al 20 o no es válido según las reglas de los números romanos, el programa debe mostrar un mensaje de error y permitir al usuario ingresar un número romano válido.

@@ -1,0 +1,16 @@
+Historia de usuario 4
+
+
+Como usuario interesado en conocer el rango de fechas de una estación del año en Bolivia,
+
+Quiero ingresar el nombre de la estación del año,
+
+Para obtener como resultado el rango de fechas correspondiente a la duración de esa estación en Bolivia.
+
+Criterios de Aceptación:
+
+Ingreso de la Estación: El programa debe permitir al usuario ingresar el nombre de la estación del año (primavera, verano, otoño, invierno).
+Validación de la Entrada: El programa debe validar que la estación ingresada por el usuario sea válida (primavera, verano, otoño, invierno). En caso de una entrada inválida, se debe mostrar un mensaje de error y solicitar al usuario que ingrese una estación válida.
+Devolver el Rango de Fechas: Una vez ingresada una estación válida, el programa debe mostrar al usuario el rango de fechas correspondiente a la duración de esa estación en Bolivia.
+Cobertura de Todas las Estaciones: El programa debe ser capaz de manejar todas las estaciones del año (primavera, verano, otoño, invierno) y devolver el rango de fechas adecuado para cada una.
+Interacción Amigable: El programa debe proporcionar una interfaz de usuario clara e intuitiva, indicando al usuario qué se espera que ingrese y mostrando de manera clara el resultado obtenido.
